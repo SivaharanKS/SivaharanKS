@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=%3E+booting+siva.elf+...;%3E+RTOS+%7C+RTAI+%7C+FreeRTOS+%E2%9C%94;%3E+ROS+%7C+TurtleBot3+%7C+YOLOv8+%E2%9C%94;%3E+looking+for+a+6-month+embedded+internship+(Feb+2027)" alt="typing intro"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sivaharan--ks)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivaharan--ks)
 [![Email](https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ss3427644@gmail.com)
 ![Location](https://img.shields.io/badge/Paris_%C2%B7_Montr%C3%A9al-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8)
 
