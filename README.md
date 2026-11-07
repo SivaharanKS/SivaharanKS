@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,55:0c4a6e,100:0ea5e9&height=190&section=header&text=Sivaharan%20Kumara%20Segaram&fontSize=36&fontColor=ffffff&fontAlignY=36&desc=Embedded%20Systems%20%C2%B7%20Robotics%20%C2%B7%20Embedded%20Vision&descSize=16&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=%3E+booting+siva.elf+...;%3E+RTOS+%7C+RTAI+%7C+FreeRTOS+%E2%9C%94;%3E+ROS+%7C+TurtleBot3+%7C+YOLOv8+%E2%9C%94;%3E+looking+for+a+6-month+embedded+internship+(Feb+2027)" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=%3E+booting+siva.elf+...;%3E+C+%7C+Python+%7C+MATLAB+%E2%9C%94;%3E+RTOS+%7C+RTAI+%7C+FreeRTOS+%E2%9C%94;%3E+ESP32+%7C+RP2040+%7C+Arduino+%E2%9C%94;%3E+ROS+%7C+TurtleBot3+%7C+YOLOv8+%E2%9C%94;%3E+CAN+bus+%7C+UDP%2FTCP+%7C+Linux+kernel+%E2%9C%94;%3E+Edge+AI+%7C+TFLite+%7C+MediaPipe+%E2%9C%94;%3E+SysML+%7C+Rhapsody+%7C+MBSE+%E2%9C%94" alt="typing intro"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivaharan--ks)
 [![Email](https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ss3427644@gmail.com)
