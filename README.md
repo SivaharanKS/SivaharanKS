@@ -19,7 +19,8 @@
 typedef struct {
     const char *name;        // Sivaharan Kumara Segaram (Siva)
     const char *status;      // Engineer student - Embedded Systems, 5th year
-    const char *focus[4];    // real-time systems, robotics, embedded vision, IoT
+    const char *last_lab;    // Academic project abroad (Taiwan) - R&D internship: embedded vision benchmark
+    const char *focus[4];    // real-time systems, robotics, embedded vision, IoT, MBSE
 } Engineer;
 
 const Engineer siva = {
