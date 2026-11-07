@@ -57,7 +57,7 @@ const Engineer siva = {
 | | Project | What it is | Stack |
 |:-:|---|---|---|
 | 🤖 | [**iot-car-gesture-vision-benchmark**](https://github.com/SivaharanKS/iot-car-gesture-vision-benchmark) | R&D internship (Taiwan): 5 embedded cameras compared for gesture control of an RP2040 robot | `RP2040` `MediaPipe` `YOLOv8` `Edge Impulse` |
-| 📐 | [**conveyor-control-sysml**]([https://github.com/SivaharanKS/sysml-system-modeling](https://github.com/SivaharanKS/conveyor-control-sysml)) | Requirements, block definition, internal block, activity and state machine diagrams of a system | `SysML` `Cameo` `MBSE` |
+| 📐 | [**conveyor-control-sysml**](https://github.com/SivaharanKS/conveyor-control-sysml) | Requirements, block definition, internal block, activity and state machine diagrams of a system | `SysML` `MBSE` |
 | 🛣️ | [**turtlebot3-yolov8-road-tracking**](https://github.com/SivaharanKS/turtlebot3-yolov8-road-tracking) | TurtleBot3 following a road with YOLOv8 segmentation (ONNX) | `ROS` `YOLOv8` `Python` |
 | 🎾 | [**turtlebot3-yolov8-ball-tracking**](https://github.com/SivaharanKS/turtlebot3-yolov8-ball-tracking) | TurtleBot3 tracking a tennis ball with YOLOv8 detection | `ROS` `YOLOv8` |
 | 🚗 | [**vehicle-speed-control-statecharts**](https://github.com/SivaharanKS/vehicle-speed-control-statecharts) | Cruise control / speed limiter modelled with statecharts | `Rhapsody` `UML` |
