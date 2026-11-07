@@ -18,11 +18,8 @@
 ```c
 typedef struct {
     const char *name;        // Sivaharan Kumara Segaram (Siva)
-    const char *school;      // ESIEE Paris - Embedded Systems, 5th year
-    const char *exchange;    // Université de Sherbrooke - Engineering Management (2026)
-    const char *last_lab;    // MCUT, Taiwan - R&D internship: embedded vision benchmark
+    const char *status;      // Engineer student - Embedded Systems, 5th year
     const char *focus[4];    // real-time systems, robotics, embedded vision, IoT
-    const char *looking_for; // 6-month embedded systems internship, Feb - Aug 2027
 } Engineer;
 
 const Engineer siva = {
